@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets / lab-sensitive
+*.ovpn
+*.pem
+*.key
+id_rsa
+id_ed25519
+authorized_keys
+root.txt
+user.txt
+
+# Temp
+*.tmp
+*.bak
