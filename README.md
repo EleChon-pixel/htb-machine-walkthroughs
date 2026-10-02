@@ -28,11 +28,3 @@ machines/
 ~~~
 
 Each machine directory is self-contained.
-
-## Documentation Standards
-
-The walkthroughs are intended to be:
-
-- **accurate** — based on commands and evidence captured during the actual solve
-- **professional** — clear methodology and technical reasoning
-- **publication-safe** — flags, passwords, private keys, tokens, VPN files, and reusable secrets are omitted or redacted
