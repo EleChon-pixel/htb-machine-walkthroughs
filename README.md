@@ -36,9 +36,3 @@ The walkthroughs are intended to be:
 - **accurate** — based on commands and evidence captured during the actual solve
 - **professional** — clear methodology and technical reasoning
 - **publication-safe** — flags, passwords, private keys, tokens, VPN files, and reusable secrets are omitted or redacted
-
-## Disclaimer
-
-All activity documented here was performed inside **authorized laboratory environments**.
-
-This repository is intended for cybersecurity education and documentation.
